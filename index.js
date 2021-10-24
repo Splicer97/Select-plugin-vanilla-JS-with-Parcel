@@ -1,3 +1,4 @@
 import { Select } from "./select/select";
+import "./select/styles.scss"
 
-const Select = new Select();
+const select = new Select();
