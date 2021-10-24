@@ -4,5 +4,17 @@
   "main": "index.js",
   "repository": "https://github.com/Splicer97/Select-plugin-vanilla-JS.git",
   "author": "Splicer97 <kovancov@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^2.0.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+  {
+    "scripts": {
+      "dev": "parcel index.html",
+      "build": "parcel build index.html"
+    }
+  }
 }
