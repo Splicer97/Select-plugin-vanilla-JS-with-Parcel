@@ -1,0 +1,8 @@
+{
+  "name": "select-plugin-vanilla-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Splicer97/Select-plugin-vanilla-JS.git",
+  "author": "Splicer97 <kovancov@gmail.com>",
+  "license": "MIT"
+}
